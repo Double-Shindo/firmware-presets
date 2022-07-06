@@ -786,6 +786,22 @@
       "priority": 100
     },
     {
+      "fullPath": "presets/4.3/filters/Rooster_Original.txt",
+      "hash": "63e596803a4329070a2d7581911a7f56edf4d1f8b71e742d6dbcff1343f924b0",
+      "title": "Rooster Original",
+      "firmware_version": [
+        "4.3"
+      ],
+      "category": "FILTERS",
+      "status": "OFFICIAL",
+      "keywords": [
+        "filter",
+        "filters"
+      ],
+      "author": "JC",
+      "priority": 100
+    },
+    {
       "fullPath": "presets/4.3/leds/defaults.txt",
       "hash": "c1dc1b69bd7b001253f05b56f3f6c3d60e93615c718f30a3b815846f445d1f6c",
       "title": "Default 4.3 LED settings",
@@ -838,6 +854,21 @@
         "OSD"
       ],
       "author": "Betaflight",
+      "priority": 0
+    },
+    {
+      "fullPath": "presets/4.3/osd/Rooster_OSD.txt",
+      "hash": "d2b26edd548d3b5d834492b09b8dd383b9578e7b64c3faf668a4b38dfea40321",
+      "title": "Rooster OSD",
+      "firmware_version": [
+        "4.3"
+      ],
+      "category": "OSD",
+      "status": "OFFICIAL",
+      "keywords": [
+        "OSD"
+      ],
+      "author": "JC",
       "priority": 0
     },
     {
