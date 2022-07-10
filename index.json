@@ -859,7 +859,7 @@
     },
     {
       "fullPath": "presets/4.3/osd/Rooster_OSD.txt",
-      "hash": "d2b26edd548d3b5d834492b09b8dd383b9578e7b64c3faf668a4b38dfea40321",
+      "hash": "9c335015e03dd0603b39748c058da4a583e5a267993f3a425ec398ec130a3c87",
       "title": "Rooster OSD",
       "firmware_version": [
         "4.3"
@@ -1106,7 +1106,7 @@
     },
     {
       "fullPath": "presets/4.3/other/Rooster_Original_Dump.txt",
-      "hash": "ade3a70cc8fc6831aeb324bb0f7422adf69b5245ebefd5f2c51a6aedc25824ce",
+      "hash": "525267fceeab3890436f31d333e4c5d6202547be60fd6cc76fcd6f0eaf069fd5",
       "title": "Rooster Original Dump",
       "firmware_version": [
         "4.3"
