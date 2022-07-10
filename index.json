@@ -787,7 +787,7 @@
       "priority": 100
     },
     {
-      "fullPath": "presets/4.3/filters/Rooster_Original.txt",
+      "fullPath": "presets/4.3/filters/Rooster_Original_Filters.txt",
       "hash": "63e596803a4329070a2d7581911a7f56edf4d1f8b71e742d6dbcff1343f924b0",
       "title": "Rooster Original",
       "firmware_version": [
@@ -1481,7 +1481,7 @@
       "priority": 10000
     },
     {
-      "fullPath": "presets/4.3/rates/Rooster_Original.txt",
+      "fullPath": "presets/4.3/rates/Rooster_Original_Rates.txt",
       "hash": "e9d40e29c627f0fd9dd67ffb42c7b022afe623f5d0ee557da62068daa5c2b922",
       "title": "Rooster Original",
       "firmware_version": [
