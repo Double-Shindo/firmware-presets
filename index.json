@@ -344,6 +344,7 @@
       "OpenRacer",
       "OpenVTx",
       "OSD",
+      "Other",
       "output limit",
       "OVX300",
       "OVX303",
@@ -1101,6 +1102,22 @@
         "stats"
       ],
       "author": "Betaflight",
+      "priority": 0
+    },
+    {
+      "fullPath": "presets/4.3/other/Rooster_Original_Dump.txt",
+      "hash": "67265ad43325aedf6d07afdb3c5cfb1a3fe2cbaee669fe832a1d57007ccd8233",
+      "title": "Dump Of Original",
+      "firmware_version": [
+        "4.3"
+      ],
+      "category": "OTHER",
+      "status": "OFFICIAL",
+      "keywords": [
+        "Other",
+        "Default"
+      ],
+      "author": "JC",
       "priority": 0
     },
     {
