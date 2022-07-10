@@ -788,8 +788,8 @@
     },
     {
       "fullPath": "presets/4.3/filters/Rooster_Original_Filters.txt",
-      "hash": "63e596803a4329070a2d7581911a7f56edf4d1f8b71e742d6dbcff1343f924b0",
-      "title": "Rooster Original",
+      "hash": "2e2ea6ea76aa9e22a7345786bb8ea3b3aa882456986fd6a129d9c3aa8e20a9d5",
+      "title": "Rooster Original Filters",
       "firmware_version": [
         "4.3"
       ],
@@ -1106,8 +1106,8 @@
     },
     {
       "fullPath": "presets/4.3/other/Rooster_Original_Dump.txt",
-      "hash": "4b6abc8131445c8c27989632224bf7d7d4dadda59d6d939dada9791033098da1",
-      "title": "Dump Of Original",
+      "hash": "ade3a70cc8fc6831aeb324bb0f7422adf69b5245ebefd5f2c51a6aedc25824ce",
+      "title": "Rooster Original Dump",
       "firmware_version": [
         "4.3"
       ],
@@ -1482,8 +1482,8 @@
     },
     {
       "fullPath": "presets/4.3/rates/Rooster_Original_Rates.txt",
-      "hash": "e9d40e29c627f0fd9dd67ffb42c7b022afe623f5d0ee557da62068daa5c2b922",
-      "title": "Rooster Original",
+      "hash": "073f81fc0e19d806992535bc83dbbc69f5a1dd311ab215e352f229b92b772e78",
+      "title": "Rooster Original Rates",
       "firmware_version": [
         "4.3"
       ],
